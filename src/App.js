@@ -1,24 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import { Children, Fragment, useRef } from 'react';
+import Header from './components/Header';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import Home from './components/Home';
+import About from './components/About';
+import Projects from './components/Projects';
+import Studio from './components/Studio';
+import Blog from './components/Blog';
+import ContactUs from './components/ContactUs';
+import Footer from './components/Footer';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Fragment>
+      <div className='body-wrapper'>
+        <div className='overlay'>
+          <div className='text'>Please use large resolution screen for better experience</div>
+        </div>
+        <Header></Header>
+        <Home></Home>
+        <About></About>
+        <Projects></Projects>
+        <Studio></Studio>
+        <Blog></Blog>
+        <ContactUs></ContactUs>
+        <Footer></Footer>
+      </div>
+        
+    </Fragment>
   );
 }
 
