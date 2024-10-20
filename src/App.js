@@ -27,8 +27,8 @@ function App() {
         <Blog></Blog>
         <ContactUs></ContactUs>
         <Footer></Footer>
+        <div className="built-by">Built by <a href="https://mohakwaghchaure.github.io/portfolio/">Mohak Sunil Waghchaure</a></div>
       </div>
-        
     </Fragment>
   );
 }

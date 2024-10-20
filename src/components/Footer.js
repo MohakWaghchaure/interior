@@ -37,7 +37,6 @@ function Footer(){
                     <li><a href='#'>Blog</a></li>                        
                 </ul>
             </div>
-
         </footer>
     </Fragment>
     )
