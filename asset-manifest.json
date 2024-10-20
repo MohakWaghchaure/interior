@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.bed79cd0.css",
-    "main.js": "/react-gh-pages/static/js/main.18eac084.js",
-    "static/js/592.829fcc8d.chunk.js": "/react-gh-pages/static/js/592.829fcc8d.chunk.js",
-    "static/media/blog001.jpg": "/react-gh-pages/static/media/blog001.85ba90de85f26712ab51.jpg",
-    "static/media/background_001.jpg": "/react-gh-pages/static/media/background_001.d9317429497c5142a185.jpg",
-    "static/media/blog004.jpg": "/react-gh-pages/static/media/blog004.5affab2c390de95dcc9d.jpg",
-    "static/media/blog003.jpg": "/react-gh-pages/static/media/blog003.c859d3d137fad7914ca2.jpg",
-    "static/media/blog002.jpg": "/react-gh-pages/static/media/blog002.81d4b7435fec1d535fc3.jpg",
-    "static/media/instagram.png": "/react-gh-pages/static/media/instagram.ac32ec0a111aeba03298.png",
-    "static/media/twitter.png": "/react-gh-pages/static/media/twitter.67ad063d90a28a5bdecc.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.bed79cd0.css.map": "/react-gh-pages/static/css/main.bed79cd0.css.map",
-    "main.18eac084.js.map": "/react-gh-pages/static/js/main.18eac084.js.map",
-    "592.829fcc8d.chunk.js.map": "/react-gh-pages/static/js/592.829fcc8d.chunk.js.map"
+    "main.css": "/interior/static/css/main.97f0e083.css",
+    "main.js": "/interior/static/js/main.159d348f.js",
+    "static/js/592.829fcc8d.chunk.js": "/interior/static/js/592.829fcc8d.chunk.js",
+    "static/media/blog001.jpg": "/interior/static/media/blog001.85ba90de85f26712ab51.jpg",
+    "static/media/background_001.jpg": "/interior/static/media/background_001.d9317429497c5142a185.jpg",
+    "static/media/blog004.jpg": "/interior/static/media/blog004.5affab2c390de95dcc9d.jpg",
+    "static/media/blog003.jpg": "/interior/static/media/blog003.c859d3d137fad7914ca2.jpg",
+    "static/media/blog002.jpg": "/interior/static/media/blog002.81d4b7435fec1d535fc3.jpg",
+    "static/media/instagram.png": "/interior/static/media/instagram.ac32ec0a111aeba03298.png",
+    "static/media/twitter.png": "/interior/static/media/twitter.67ad063d90a28a5bdecc.png",
+    "index.html": "/interior/index.html",
+    "main.97f0e083.css.map": "/interior/static/css/main.97f0e083.css.map",
+    "main.159d348f.js.map": "/interior/static/js/main.159d348f.js.map",
+    "592.829fcc8d.chunk.js.map": "/interior/static/js/592.829fcc8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bed79cd0.css",
-    "static/js/main.18eac084.js"
+    "static/css/main.97f0e083.css",
+    "static/js/main.159d348f.js"
   ]
 }
